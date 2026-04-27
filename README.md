@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: idk
-- ⚡ Fun fact: I play valorant unfortunately (2021-till now(2024))
+- ⚡ Fun fact:
 
 <!---
 flxmed/flxmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
